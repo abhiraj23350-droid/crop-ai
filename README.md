@@ -12,7 +12,7 @@
 
 ## 🔗 Live Demo
 
-**👉 [crop-ai.vercel.app](https://crop-ai.vercel.app)** ← Click to try it!
+**👉 [crop-ai.vercel.app](https://cropai-gamma.vercel.app/)** ← Click to try it!
 
 ---
 
